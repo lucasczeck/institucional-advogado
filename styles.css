@@ -485,4 +485,15 @@ html {
 .disclaimer p {
     margin: 0;
     opacity: 1;
+}
+
+/* Melhorias de acessibilidade */
+.contact-item a {
+    color: var(--cinza-medio);
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.contact-item a:hover {
+    color: var(--dourado);
 } 

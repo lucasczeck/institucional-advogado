@@ -78,6 +78,60 @@ advogado/
 - **WhatsApp Integration**: Links diretos para WhatsApp Web
 - **Preloader**: Tela de carregamento inicial
 
+## 🔍 Otimizações de SEO
+
+O site foi otimizado para motores de busca com as seguintes implementações:
+
+### **Meta Tags e Estrutura**
+- ✅ Meta description otimizada
+- ✅ Meta keywords relevantes
+- ✅ Open Graph tags para redes sociais
+- ✅ Twitter Cards
+- ✅ Canonical URL
+- ✅ Favicon e Apple touch icon
+
+### **Schema.org Structured Data**
+- ✅ LegalService schema markup
+- ✅ Informações completas do escritório
+- ✅ Endereço estruturado
+- ✅ Horário de funcionamento
+- ✅ Catálogo de serviços
+- ✅ Informações do advogado
+
+### **Acessibilidade e Semântica**
+- ✅ Atributos ARIA (aria-label, aria-hidden, role)
+- ✅ Estrutura HTML semântica (article, address, nav)
+- ✅ Breadcrumbs para navegação
+- ✅ Links com rel="noopener" para segurança
+- ✅ Títulos com IDs para navegação
+
+### **Performance**
+- ✅ Preload de recursos críticos
+- ✅ Lazy loading para iframe do mapa
+- ✅ Otimização de imagens
+- ✅ CSS e JS minificados
+
+### **Arquivos de SEO**
+- ✅ `sitemap.xml` - Mapa do site
+- ✅ `robots.txt` - Orientações para crawlers
+- ✅ URLs amigáveis e estrutura clara
+
+### **Palavras-chave Otimizadas**
+- "advogado trabalhista Curitiba"
+- "direito do trabalho"
+- "rescisão de contrato"
+- "horas extras"
+- "assédio moral"
+- "acidentes de trabalho"
+- "Dr. Carlos Czeck"
+
+### **Resultados Esperados**
+- Melhor posicionamento no Google
+- Rich snippets nos resultados de busca
+- Melhor experiência em redes sociais
+- Maior visibilidade local
+- Melhor acessibilidade para leitores de tela
+
 ## 📱 Responsividade
 
 O site é totalmente responsivo e funciona em:
